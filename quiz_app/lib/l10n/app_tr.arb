@@ -1,0 +1,12 @@
+{
+    "startText": "Başlat",
+    "changeText": "Değiştir",
+    "emptyText" : "Boş",
+    "correctText": "Doğru",
+    "wrongText": "Yanlış",
+    "nullText": "Yok",
+    "skipText": "Geç",
+    "secondText": "sn",
+    "resultPageTitle": "Sonuç Sayfası",
+    "homePageWelcome": "Hoşgeldin"
+}

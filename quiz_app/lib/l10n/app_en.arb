@@ -1,0 +1,14 @@
+{
+    "startText": "Start",
+    "changeText": "Change",
+    "emptyText" : "Empty",
+    "correctText": "Correct",
+    "wrongText": "Wrong",
+    "nullText" : "Null",
+    "skipText": "Skip",
+    "secondText" : "sec",
+    "resultPageTitle": "Result Page",
+    "homePageWelcome": "Welcome"
+
+
+}
